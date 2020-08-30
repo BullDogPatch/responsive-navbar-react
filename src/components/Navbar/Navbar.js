@@ -35,7 +35,7 @@ class Navbar extends React.Component {
             </li>
           ))}
         </ul>
-        <Button>Sign Up</Button>
+        <Button />
       </nav>
     );
   }
